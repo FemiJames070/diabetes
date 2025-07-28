@@ -1,0 +1,189 @@
+2025-07-28 09:22:14,250:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 09:22:14,250:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 09:22:14,250:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 09:22:14,250:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 09:22:14,995:INFO:Initializing load_model()
+2025-07-28 09:22:14,995:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:23:23,031:INFO:Initializing load_model()
+2025-07-28 09:23:23,031:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:01,771:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 09:26:01,771:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 09:26:01,771:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 09:26:01,771:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 09:26:02,497:INFO:Initializing load_model()
+2025-07-28 09:26:02,497:INFO:Initializing load_model()
+2025-07-28 09:26:02,497:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:02,498:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:02,953:INFO:Transformation Pipeline and Model Successfully Loaded
+2025-07-28 09:26:14,850:INFO:Initializing load_model()
+2025-07-28 09:26:14,850:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:15,861:INFO:Initializing load_model()
+2025-07-28 09:26:15,861:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:16,138:INFO:Initializing load_model()
+2025-07-28 09:26:16,138:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:16,869:INFO:Initializing load_model()
+2025-07-28 09:26:16,869:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:17,584:INFO:Initializing load_model()
+2025-07-28 09:26:17,584:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:18,268:INFO:Initializing load_model()
+2025-07-28 09:26:18,268:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:18,495:INFO:Initializing load_model()
+2025-07-28 09:26:18,495:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:18,709:INFO:Initializing load_model()
+2025-07-28 09:26:18,709:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:18,916:INFO:Initializing load_model()
+2025-07-28 09:26:18,916:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:19,128:INFO:Initializing load_model()
+2025-07-28 09:26:19,128:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:19,357:INFO:Initializing load_model()
+2025-07-28 09:26:19,357:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:19,570:INFO:Initializing load_model()
+2025-07-28 09:26:19,570:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:19,833:INFO:Initializing load_model()
+2025-07-28 09:26:19,834:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:20,963:INFO:Initializing load_model()
+2025-07-28 09:26:20,963:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:21,155:INFO:Initializing load_model()
+2025-07-28 09:26:21,155:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:21,380:INFO:Initializing load_model()
+2025-07-28 09:26:21,380:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:21,622:INFO:Initializing load_model()
+2025-07-28 09:26:21,623:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:21,905:INFO:Initializing load_model()
+2025-07-28 09:26:21,906:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:39,626:INFO:Initializing load_model()
+2025-07-28 09:26:39,626:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:39,832:INFO:Initializing load_model()
+2025-07-28 09:26:39,832:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:40,044:INFO:Initializing load_model()
+2025-07-28 09:26:40,044:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:40,239:INFO:Initializing load_model()
+2025-07-28 09:26:40,239:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:40,440:INFO:Initializing load_model()
+2025-07-28 09:26:40,440:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:41,497:INFO:Initializing load_model()
+2025-07-28 09:26:41,497:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:41,673:INFO:Initializing load_model()
+2025-07-28 09:26:41,673:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:41,878:INFO:Initializing load_model()
+2025-07-28 09:26:41,878:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:42,118:INFO:Initializing load_model()
+2025-07-28 09:26:42,119:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:44,564:INFO:Initializing load_model()
+2025-07-28 09:26:44,565:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:45,628:INFO:Initializing load_model()
+2025-07-28 09:26:45,629:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:45,867:INFO:Initializing load_model()
+2025-07-28 09:26:45,868:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:47,049:INFO:Initializing load_model()
+2025-07-28 09:26:47,049:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:47,266:INFO:Initializing load_model()
+2025-07-28 09:26:47,266:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:47,487:INFO:Initializing load_model()
+2025-07-28 09:26:47,487:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:48,476:INFO:Initializing load_model()
+2025-07-28 09:26:48,477:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:48,688:INFO:Initializing load_model()
+2025-07-28 09:26:48,688:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:48,915:INFO:Initializing load_model()
+2025-07-28 09:26:48,916:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:50,445:INFO:Initializing load_model()
+2025-07-28 09:26:50,445:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:50,668:INFO:Initializing load_model()
+2025-07-28 09:26:50,669:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:50,881:INFO:Initializing load_model()
+2025-07-28 09:26:50,882:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:51,091:INFO:Initializing load_model()
+2025-07-28 09:26:51,091:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:51,296:INFO:Initializing load_model()
+2025-07-28 09:26:51,296:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:52,561:INFO:Initializing load_model()
+2025-07-28 09:26:52,561:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:52,637:INFO:Initializing predict_model()
+2025-07-28 09:26:52,637:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000028902BF3650>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Pregnancies', 'Glucose',
+                                             'BloodPressure', 'SkinThickness',
+                                             'Insulin', 'BMI',
+                                             'DiabetesPedigreeFunction',
+                                             'Age'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 RandomForestClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000028903859580>)
+2025-07-28 09:26:52,637:INFO:Checking exceptions
+2025-07-28 09:26:52,637:INFO:Preloading libraries
+2025-07-28 09:26:52,638:INFO:Set up data.
+2025-07-28 09:26:52,644:INFO:Set up index.
+2025-07-28 09:26:54,734:INFO:Initializing load_model()
+2025-07-28 09:26:54,734:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:26:54,807:INFO:Initializing predict_model()
+2025-07-28 09:26:54,807:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000028901BD6490>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Pregnancies', 'Glucose',
+                                             'BloodPressure', 'SkinThickness',
+                                             'Insulin', 'BMI',
+                                             'DiabetesPedigreeFunction',
+                                             'Age'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 RandomForestClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002890385B4C0>)
+2025-07-28 09:26:54,807:INFO:Checking exceptions
+2025-07-28 09:26:54,807:INFO:Preloading libraries
+2025-07-28 09:26:54,808:INFO:Set up data.
+2025-07-28 09:26:54,814:INFO:Set up index.
+2025-07-28 09:28:53,333:INFO:Initializing load_model()
+2025-07-28 09:28:53,333:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:29:25,154:INFO:Initializing load_model()
+2025-07-28 09:29:25,154:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:29:25,334:INFO:Initializing load_model()
+2025-07-28 09:29:25,334:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:29:33,736:INFO:Initializing load_model()
+2025-07-28 09:29:33,736:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:29:39,848:INFO:Initializing load_model()
+2025-07-28 09:29:39,849:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:29:45,701:INFO:Initializing load_model()
+2025-07-28 09:29:45,701:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:29:57,025:INFO:Initializing load_model()
+2025-07-28 09:29:57,025:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:30:11,413:INFO:Initializing load_model()
+2025-07-28 09:30:11,413:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:30:15,517:INFO:Initializing load_model()
+2025-07-28 09:30:15,518:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:30:18,592:INFO:Initializing load_model()
+2025-07-28 09:30:18,593:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:30:24,466:INFO:Initializing load_model()
+2025-07-28 09:30:24,468:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:30:24,660:INFO:Initializing load_model()
+2025-07-28 09:30:24,660:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 09:30:24,733:INFO:Initializing predict_model()
+2025-07-28 09:30:24,734:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002890369F110>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Pregnancies', 'Glucose',
+                                             'BloodPressure', 'SkinThickness',
+                                             'Insulin', 'BMI',
+                                             'DiabetesPedigreeFunction',
+                                             'Age'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 RandomForestClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002897EF6F9C0>)
+2025-07-28 09:30:24,734:INFO:Checking exceptions
+2025-07-28 09:30:24,734:INFO:Preloading libraries
+2025-07-28 09:30:24,735:INFO:Set up data.
+2025-07-28 09:30:24,740:INFO:Set up index.
